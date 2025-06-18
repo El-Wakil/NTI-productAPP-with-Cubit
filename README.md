@@ -1,3 +1,3 @@
-# product_app
+# Product Using Cubit
 
 A new Flutter project.
